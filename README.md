@@ -12,7 +12,7 @@ Simple macOS menu bar application that helps to keep your desktop clean and orga
 
 ## Installation
 
-To use Cleanscape, download the latest release here. Unzip the file and move the `cleanscape.app` file to your Applications folder.  
+To use Cleanscape, download the latest release [here](https://github.com/notnotsamuel/cleanscape/releases/tag/v0.1). Unzip the file and move the `cleanscape.app` file to your Applications folder.  
 
 ## Building from source
 
