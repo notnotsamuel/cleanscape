@@ -1,5 +1,5 @@
 # Cleanscape
-![image](app/cleanscape.png | width=100)
+<img src="app/cleanscape.png" width="100" height="100">
 
 Make your desktop clean again...  
 Simple macOS menu bar application that helps to keep your desktop clean and organized. With just one click, it allows you to hide or unhide all files and folders on your desktop. It's built in Python using rumps lib (exposing Objective-C classes).
